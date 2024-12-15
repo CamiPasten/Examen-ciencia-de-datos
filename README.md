@@ -24,4 +24,11 @@ Este proyecto utiliza un conjunto de datos (`ingresos.txt`) para realizar un an�
 3. Imputación de datos faltantes.
 4. Reducción de dimensionalidad usando PCA.
 
+### Supuestos del PCA
+1. **Linealidad:** Se asume que las relaciones entre variables son lineales.
+2. **Estandarización:** Las variables fueron escaladas usando StandardScaler.
+3. **Varianza máxima:** El PCA maximiza la varianza en las componentes principales.
+4. **Independencia:** Las componentes principales son ortogonales entre sí.
+
+
 El proyecto está versionado con Git y alojado en un repositorio en GitHub.
