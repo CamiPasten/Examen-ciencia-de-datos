@@ -1,4 +1,9 @@
 # Examen Ciencia de Datos para la Economía
+Autores:
+- Camila Pasten
+- Isleby Figueroa
+- Javiera Gonzalez
+
 Este proyecto busca predecir los ingresos anuales de encuestados en EE.UU. utilizando datos de encuestas de 1990.
 
 ## Contenido
@@ -10,9 +15,13 @@ Este proyecto busca predecir los ingresos anuales de encuestados en EE.UU. utili
 - `ingresos.txt`: Dataset con información sobre estatura, peso, ingresos, entre otros.
 - `examen.ipynb`: Cuaderno Jupyter con el desarrollo del análisis.
 
-## Actualización del Proyecto
-### Exploración de datos
-Se realizó una exploración inicial para entender la estructura del dataset.
+# Análisis de Datos con PCA
 
-### Análisis PCA
-Se aplicó un análisis de componentes principales (PCA) para reducir la dimensionalidad y visualizar los datos.
+Este proyecto utiliza un conjunto de datos (`ingresos.txt`) para realizar un análisis descriptivo y aplicar reducción de dimensionalidad con el algoritmo PCA. Incluye:
+
+1. Descripción de los datos.
+2. Transformaciones necesarias.
+3. Imputación de datos faltantes.
+4. Reducción de dimensionalidad usando PCA.
+
+El proyecto está versionado con Git y alojado en un repositorio en GitHub.
